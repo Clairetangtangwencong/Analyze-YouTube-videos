@@ -1,4 +1,4 @@
-# Analyze-YouTube-videos
+# Analyze the performance of a YouTube channel's videos
 ### Purpose statement 
 The objective of this project is to
 1) Extract information about all videos of one channel, including Likes, Views, Comments
