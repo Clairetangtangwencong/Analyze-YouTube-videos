@@ -1,4 +1,4 @@
-# YouTube-api
+# Analyze-YouTube-videos
 ### Purpose statement 
 The objective of this project is to
 1) Extract information about all videos of one channel, including Likes, Views, Comments
