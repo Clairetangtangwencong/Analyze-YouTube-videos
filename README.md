@@ -3,7 +3,6 @@
 The objective of this project is to
 1) Extract information about all videos of one channel, including Likes, Views, Comments
 2) Analyze performance of the channel and its videos
-The project is divided intoo two parts: 1) Extract video information; 2) Analyse performance
 
 ### Steps in Extract video information.ipynb
 1. Import libraries
